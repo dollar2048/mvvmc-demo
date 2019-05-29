@@ -1,4 +1,4 @@
-#MVVM-C in Practice Sample Code
+# MVVM-C in Practice Sample Code
 
 This is the sample code from a talk called MVVM-C in Practice.
 
